@@ -1,0 +1,28 @@
+<style>
+	
+h4{color:rgb(0,0,0);}	
+body{background-image:url("https://i.kym-cdn.com/photos/images/original/001/197/729/afe.jpg");
+
+background-repeat: no-repeat;
+background-size: cover;}
+	
+
+	p{color:rgb(255, 176, 255);}
+
+	h5{color:rgb(247, 242, 247);}
+
+	li{color:rgb(209, 170, 209);}
+
+	h2{float:right;}
+
+	h1{color:rgb(120, 196, 203);}
+
+	h3{color:rgb(196, 191, 245);}
+
+
+a:link {color: red;}
+a:visited {color:rgb(194, 191, 230);}
+a:hover {color:rgb(233, 101, 245);}
+a:active {color:rgb(143, 248, 255);}
+</style>
+        
